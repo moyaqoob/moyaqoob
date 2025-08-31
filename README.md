@@ -1,5 +1,5 @@
 
-# Hi there, I'm Yaqoob! 👋
+# Hii, I'm Yaqoob! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=4EF0D1&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;🎥+WebRTC+%26+Real-time+Systems;💡+Open+Source+Contributor;📚+Always+Learning+New+Tech" alt="Typing SVG" />
@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-An engineer who loves to code for fun and wanna create a meaningful impact. 
+An engineer who loves to code for fun
 
-- 🌱 **Currently learning:** Advanced WebRTC, media servers, and scalable distributed servers
+- 🌱 **Currently learning:** webrtc, 
 - 👯 **Looking to collaborate on:** Open source projects, WebRTC applications, and innovative web solutions
 - 💬 **Ask me about:** React, TypeScript, WebRTC, real-time systems, and full-stack development
 - ⚡ **Fun fact:** I love exploring codebases to understand the "why" behind the code, not just the "how"
@@ -19,7 +19,7 @@ An engineer who loves to code for fun and wanna create a meaningful impact.
 
 ### 🛠️ Tech Stack
 
-<p align="left">
+<p align="left" gap="5px">
   <!-- Languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -51,8 +51,7 @@ An engineer who loves to code for fun and wanna create a meaningful impact.
 </p>
 
 
-## 🎯 Github Stats
-![Yaqoob's GitHub stats](https://github-readme-stats.vercel.app/api?username=moyaqoob&show_icons=true&theme=tokyonight&count_private=true)
+
 
 
 ## Languages I love to code in
