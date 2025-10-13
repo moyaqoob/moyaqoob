@@ -2,7 +2,7 @@
 # Hii, I'm Yaqoob! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=4EF0D1&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;🎥+%26+Backend+Systems;💡+Open+Source+Contributor;📚+Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=4EF0D1&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;+Backend+Systems;💡+Open+Source+Contributor;📚+Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
 
