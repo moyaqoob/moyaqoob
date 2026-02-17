@@ -10,7 +10,7 @@
 
 An engineer who loves to code for fun
 
-- 🌱 **Currently learning:** Advanced Backend, Devops.
+- 🌱 **Currently learning:** Advanced fundamentals.
 - 👯 **Looking to collaborate on:** Open source projects, WebRTC applications, and innovative web solutions
 - 💬 **Ask me about:** React, TypeScript, WebRTC, real-time systems, and full-stack development
 - ⚡ **Fun fact:** I love exploring codebases to understand the "why" behind the code, not just the "how"
