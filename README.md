@@ -18,8 +18,6 @@
   hyderabad, in
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=4EF0D1&center=true&vCenter=true&width=600&lines=TypeScript+%2F+Rust+%2F+Python+%2F+Go;BM25+search+engines+from+scratch;WebRTC+%26+real-time+systems;I+read+the+source+code.)](https://github.com/moyaqoob)
-
 </div>
 
 ---
@@ -30,7 +28,7 @@ I don't just write code that works. I want to understand **why** it works — an
 
 I've built a full BM25 search engine from scratch — crawler, inverted index, scorer, the whole pipeline — because I wanted to know what Google was doing under the hood, not just use an API that pretends the problem is solved. That's the kind of engineer I am.
 
-Currently going deep on **systems design**, **language runtimes**, and **anything that runs close to the metal.**
+Currently going deep on **systems design**, **language runtimes**, and **anything that runs close to the complex problems.**
 
 ---
 
@@ -40,8 +38,8 @@ Currently going deep on **systems design**, **language runtimes**, and **anythin
 languages/
 ├── typescript/    ████████████████████  primary
 ├── rust/          ████████████░░░░░░░░  love it, still learning
-├── python/        ███████████████░░░░░  tools, scripts, data
-└── go/            █████████░░░░░░░░░░░  when concurrency matters
+├── python/        ███████████████░░░░░  tools, scripts, data (med)
+└── go/            █████████░░░░░░░░░░░  when concurrency matters (med)
 
 frontend/
 ├── react          ████████████████████
@@ -70,9 +68,10 @@ infra/
 
 ```
 d4e91f3  zebra-search   — full BM25 search engine. crawler → indexer → ranked results.
-                          29k articles. Porter stemming. Robertson IDF. deployed.
-a8c22b  webrtc-app      — peer-to-peer, signaling server, ICE candidates, the works.
-                          not a tutorial clone. built it to understand the protocol.
+                          10k articles. Porter stemming. Robertson IDF. deployed.
+a8c22b  signal     —      a full stack app where you can make check the trades and updates of charts of the global companies
+c34e34  sketch.io  -      an app thats lets you collaborate with and make sketches. 
+
 [more being written]
 ```
 
@@ -95,11 +94,11 @@ a8c22b  webrtc-app      — peer-to-peer, signaling server, ICE candidates, the 
 
 ```
 PID   PROCESS                          CPU%
-001   distributed-systems-fundamentals  high
-002   rust-ownership-model              high  
+001   distributed-systems-fundamentals  med
+002   rust-ownership-model              med  
 003   language-runtime-internals        med
 004   search-relevance-algorithms       med
-005   open-source-contributions         soon
+005   open-source-contributions         med
 ```
 
 ---
