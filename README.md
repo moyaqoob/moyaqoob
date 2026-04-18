@@ -26,7 +26,7 @@
 
 I don't just write code that works. I want to understand **why** it works — and more importantly, why the thing it replaced didn't.
 
-I've built a full BM25 search engine from scratch — crawler, inverted index, scorer, the whole pipeline — because I wanted to know what Google was doing under the hood, not just use an API that pretends the problem is solved. That's the kind of engineer I am.
+Building things to understand them. TypeScript in production, Rust for thinking, C++ when the problem gets serious. Interested in systems internals, search infrastructure, and software that doesn't collapse under its own weight.
 
 Currently going deep on **systems design**, **language runtimes**, and **anything that runs close to the complex problems.**
 
